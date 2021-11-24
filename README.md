@@ -9,14 +9,6 @@ This project have help me have a better understanding about how to write respons
 
 note: any positive, informative or encouraging comments about this project or just how to write better code in general will be greatly appreciated.
 
-## Use
-
-To replicate/run this project:
-
-Download zip file -> drag project folder on desktop -> open folder -> click index.html file (project will open on your browser.)
-
-Alternatively: open folder -> with VS Code (code editor) (you can download it at https://code.visualstudio.com) which will allow you to easily modify the project code and see the live output on your screen with vs code live server extension. 
-
 ## About the author
 
 Hello World!. My name is Jose W. Rivas, I live in NYC, I'm passionate and dedicated learner and aspire to become an excellent full-stack developer. 
@@ -24,5 +16,3 @@ Hello World!. My name is Jose W. Rivas, I live in NYC, I'm passionate and dedica
 ## Credits
 [Jose W. Rivas]
 
-## License
-[MIT](https://opensource.org/licenses/MIT)
