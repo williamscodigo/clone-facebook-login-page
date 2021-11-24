@@ -15,4 +15,3 @@ Hello World!. My name is Jose W. Rivas, I live in NYC, I'm passionate and dedica
 
 ## Credits
 [Jose W. Rivas]
-
