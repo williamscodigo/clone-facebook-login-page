@@ -1,7 +1,7 @@
 # (clone)Facebook-log-in-page
 
 In this project I attempt to replicate the responsive layout for 
-facebook log in page https://www.facebook.com (layout) as of 10/9/2021. I have focus on the UI using only HTML5 and CSS3. I have included a folder with 2 screenshots to show the page layout (in case it changes in the future) as reference. 
+facebook log in page https://www.facebook.com (layout) as of 10/9/2021. I have focus on the UI using only HTML and CSS. I have included a folder with 2 screenshots to show the page layout (in case it changes in the future) as reference. 
 
 ## Comment
 
